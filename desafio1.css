@@ -26,7 +26,7 @@ body{
  	z-index: 2;
  	
  }
-.quadroAzul > h1, .quadroAzul > h2, .quadroAzul > p{
+.texto{
  	color: white;
  	margin-left: 50px;
  	margin-right: 35px;
