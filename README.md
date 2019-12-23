@@ -1,6 +1,6 @@
 # Desafio1
 
-Just Practcing HTML and CSS
+Just Practicing HTML and CSS
 
 
 
